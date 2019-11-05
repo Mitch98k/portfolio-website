@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "html5up-dimension",
+			"path": "/Users/mitch/Downloads/html5up-dimension"
+		},
+		{
+			"name": "portfolio-website",
+			"path": "/Users/mitch/Desktop/unitOne/portfolio/portfolio-website"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio-website"
+	}
+}
